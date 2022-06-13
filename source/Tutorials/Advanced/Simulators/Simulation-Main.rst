@@ -7,7 +7,7 @@
 Simulation
 ==========
 
-These set of tutorials will teach you how to configure different simulators with ROS 2.
+This set of tutorials will teach you how to configure different simulators with ROS 2.
 
 .. contents:: Contents
    :depth: 2
